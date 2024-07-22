@@ -27,7 +27,7 @@ I am committed to continuous learning and growth within an innovative environmen
 
 ### Current Status 🎯
 
-- 🔭 I’m currently working on [ManageIt](https://kilobyte1.github.io/portfolio/): Revolutionary Movie Streaming application.
+- 🔭 I’m currently working on [ManageIt](https://kilobyte1.github.io/portfolio/): Revolutionary Short term property rental management application.
 
 - 📫 Email me on [richardotkankam@gmail.com](mailto:richardotkankam@gmail.com)
 
